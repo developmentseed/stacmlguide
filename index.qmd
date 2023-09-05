@@ -10,7 +10,7 @@ TODO
 
 If you want to contribute or modify content, read the [Get Involved](./contributing.qmd) page.
 
-If you have a question or idea for this guide, please start a [Github Discussion](https://github.com/developmentseed/cloud-optimized-geospatial-formats-guide/discussions/new/choose).
+If you have a question or idea for this guide, please start a [Github Discussion](https://github.com/developmentseed/stacmlguide/discussions/new/choose).
 
 
 ## Running examples
