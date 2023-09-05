@@ -1,6 +1,6 @@
-project: 
+project:
   type: website
-  preview: 
+  preview:
     port: 4200
 
 website:
@@ -11,7 +11,7 @@ website:
 
   page-footer:
     right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
-    left: "&copy; CC-By [Development Seed](https://developmentseed.org), 2023"
+    left: "&copy; CC-BY [Development Seed](https://developmentseed.org), 2023"
 
   sidebar:
     pinned: true
@@ -19,7 +19,7 @@ website:
     tools:
       - icon: github
         href: https://github.com/developmentseed/stacmlguide
-        text: "STAC ML Guide"
+        text: "STAC ML Model Extension Guide"
     style: "docked"
     search: true
     # collapse-level: 2
@@ -28,9 +28,9 @@ website:
         text: Welcome
       - href: contributing.qmd
         text: Get Involved
-      ## TODO: 
-      # - href: 
-      #   text: Build STAC ML Extension 
+      ## TODO:
+      # - href:
+      #   text: Build STAC ML Model Extension
 
 
 format:

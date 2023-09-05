@@ -1,6 +1,6 @@
 ---
-title: "STAC ML Guide"
-subtitle: "A demo for creating a STAC collection with the ML extension"
+title: "STAC ML Model Extension Guide"
+subtitle: "A demo for creating a STAC collection with the ML Model extension"
 ---
 
 ## INTRO:
@@ -19,5 +19,4 @@ Most of the data formats covered in this guide have a Jupyter Notebook example t
 
 ## Authors
 
-* 
-
+*
