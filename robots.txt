@@ -1,0 +1,1 @@
+Sitemap: https://github.com/developmentseed/stacmlguide/sitemap.xml
