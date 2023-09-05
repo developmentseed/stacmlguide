@@ -34,6 +34,6 @@ Once the pull request is opened, and the github `preview.yml` workflow runs ("De
 
 ### 1. #TODO
 
-## 5. Add yourself to the list of authors on the [Welcome](./index.qmd#authors) page!
+### 2. Add yourself to the list of authors on the [Welcome](./index.qmd#authors) page!
 
-## 6. Once your PR is approved, merge away.
+### 3. Once your PR is approved, merge away.
