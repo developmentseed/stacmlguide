@@ -1,0 +1,46 @@
+project:
+  type: website
+  preview:
+    port: 4200
+
+website:
+  page-navigation: true
+  title: STAC ML Guide
+  repo-url: https://github.com/developmentseed/stacmlguide
+  repo-actions: [edit, issue]
+
+  page-footer:
+    right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
+    left: "&copy; CC-BY [Development Seed](https://developmentseed.org), 2023"
+
+  sidebar:
+    pinned: true
+    align: center
+    tools:
+      - icon: github
+        href: https://github.com/developmentseed/stacmlguide
+        text: "STAC ML Model Extension Guide"
+    style: "docked"
+    search: true
+    # collapse-level: 2
+    contents:
+      - href: index.qmd
+        text: Welcome
+      - href: contributing.qmd
+        text: Get Involved
+      ## TODO:
+      # - href:
+      #   text: Build STAC ML Model Extension
+
+
+format:
+  html:
+    theme:
+      light: [cosmo, theme.scss] # from https://github.com/sta210-s22/website/blob/main/_quarto.yml
+      dark: [cosmo, theme-dark.scss]
+    code-copy: true
+    code-overflow: wrap
+    css: styles.css
+    toc: true
+    grid:
+      sidebar-width: 400px
