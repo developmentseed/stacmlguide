@@ -20,7 +20,7 @@ We recommend [using mamba](https://mamba.readthedocs.io/en/latest/installation.h
 to initialize the virtual environment, but you can use others too.
 The virtual environment should be created with Python and pip installed.
 
-    cd stacml
+    cd stacmlguide
     mamba create --name stacml python=3.11 pip=23.2.1
 
 Activate the virtual environment first.
