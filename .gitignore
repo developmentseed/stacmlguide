@@ -11,4 +11,21 @@ dist/
 venv/
 MANIFEST
 
+
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
 /.quarto/
+*_cache/
+_site/
+test_data/
+*.zarr
+
+.DS_Store
+_env*
+__pycache__/
+.ipynb_checkpoints
+
+/.luarc.json
