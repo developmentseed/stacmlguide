@@ -31,7 +31,7 @@ Install the dependencies from the `pyproject.toml` file using `pip`. This will
 include several Python packages and development related dependencies like
 [JupyterLab](https://github.com/jupyterlab/jupyterlab).
 
-    pip install --editable .[dev]
+    pip install --editable ".[dev]"
 
 Finally, double-check that the libraries have been installed.
 
