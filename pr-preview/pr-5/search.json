@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "STAC ML Model Extension Guide",
+    "section": "",
+    "text": "TODO"
+  },
+  {
+    "objectID": "index.html#intro",
+    "href": "index.html#intro",
+    "title": "STAC ML Model Extension Guide",
+    "section": "",
+    "text": "TODO"
+  },
+  {
+    "objectID": "index.html#how-to-get-involved",
+    "href": "index.html#how-to-get-involved",
+    "title": "STAC ML Model Extension Guide",
+    "section": "How to get involved",
+    "text": "How to get involved\nIf you want to contribute or modify content, read the Get Involved page.\nIf you have a question or idea for this guide, please start a Github Discussion."
+  },
+  {
+    "objectID": "index.html#running-examples",
+    "href": "index.html#running-examples",
+    "title": "STAC ML Model Extension Guide",
+    "section": "Running examples",
+    "text": "Running examples\nMost of the data formats covered in this guide have a Jupyter Notebook example that covers the basics of how to read and write the given format. At the top of each notebook is a link to an environment.yml file that describes what libraries need to be installed for the notebook to run correctly. You can use Conda or Mamba (a successor to Conda with faster package installs) to install the environment needed to run the notebook."
+  },
+  {
+    "objectID": "index.html#authors",
+    "href": "index.html#authors",
+    "title": "STAC ML Model Extension Guide",
+    "section": "Authors",
+    "text": "Authors"
+  },
+  {
+    "objectID": "contributing.html",
+    "href": "contributing.html",
+    "title": "Get Involved",
+    "section": "",
+    "text": "We encourage contributions to this guide."
+  },
+  {
+    "objectID": "contributing.html#pre-requisites",
+    "href": "contributing.html#pre-requisites",
+    "title": "Get Involved",
+    "section": "Pre-requisites",
+    "text": "Pre-requisites\nIf you wish to preview the site locally, install quarto. You will also need to be familiar with quarto markdown."
+  },
+  {
+    "objectID": "contributing.html#core-principles",
+    "href": "contributing.html#core-principles",
+    "title": "Get Involved",
+    "section": "Core principles",
+    "text": "Core principles\n\nThis guide is intended to be opinionated, but acknowledges there is no one-size-fits all solution.\nThis guide should provide best information and guidance available, but acknowledge there are many existing resources out there developed by experts. Those resources should be linked as appropriate."
+  },
+  {
+    "objectID": "contributing.html#additional-criteria",
+    "href": "contributing.html#additional-criteria",
+    "title": "Get Involved",
+    "section": "Additional criteria",
+    "text": "Additional criteria\n\nLanding pages with no code should be use quarto markdown (.qmd).\nPages with executable code should be iPython Notebooks (.ipynb)"
+  },
+  {
+    "objectID": "contributing.html#code-of-conduct",
+    "href": "contributing.html#code-of-conduct",
+    "title": "Get Involved",
+    "section": "Code of Conduct",
+    "text": "Code of Conduct\n\nBe inclusive, respectful and understanding of others’ backgrounds and contexts.\nLook for and foster diverse perspectives.\nIf you experience any harmful behavior, please contact the Github repo admins"
+  },
+  {
+    "objectID": "contributing.html#how-to-contribute",
+    "href": "contributing.html#how-to-contribute",
+    "title": "Get Involved",
+    "section": "How to contribute",
+    "text": "How to contribute\n\n0. General\nFork the repository, make changes, use quarto preview to make sure the changes look good and open a pull request.\nOnce the pull request is opened, and the github preview.yml workflow runs (“Deploy PR previews”), you should have a preview available for review at https://developmentseed.org/stacmlguide/pr-preview/pr-.\n\n\n1. #TODO\n\n\n2. Add yourself to the list of authors on the Welcome page!\n\n\n3. Once your PR is approved, merge away."
+  }
+]
