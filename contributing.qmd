@@ -1,0 +1,39 @@
+---
+title: Get Involved
+---
+
+We encourage contributions to this guide.
+
+## Pre-requisites
+
+If you wish to preview the site locally, install [quarto](https://quarto.org/). You will also need to be familiar with [quarto markdown](https://quarto.org/docs/authoring/markdown-basics.html).
+
+## Core principles
+
+1. This guide is intended to be opinionated, but acknowledges there is no one-size-fits all solution.
+2. This guide should provide best information and guidance available, but acknowledge there are many existing resources out there developed by experts. Those resources should be linked as appropriate.
+
+## Additional criteria
+
+* Landing pages with no code should be use [quarto markdown (`.qmd`)](https://quarto.org/docs/authoring/markdown-basics.html).
+* Pages with executable code should be [iPython Notebooks (`.ipynb`)](https://ipython.org/notebook.html)
+
+## Code of Conduct
+
+* Be inclusive, respectful and understanding of others' backgrounds and contexts.
+* Look for and foster diverse perspectives.
+* If you experience any harmful behavior, please contact the Github repo admins
+
+## How to contribute
+
+### 0. General
+
+Fork the repository, make changes, use `quarto preview` to make sure the changes look good and open a pull request.
+
+Once the pull request is opened, and the github `preview.yml` workflow runs ("Deploy PR previews"), you should have a preview available for review at https://developmentseed.org/cloud-optimized-geospatial-formats-guide/pr-preview/pr-<YOUR-PR-NUMBER-HERE>.
+
+### 1. #TODO
+
+## 5. Add yourself to the list of authors on the [Welcome](./index.qmd#authors) page!
+
+## 6. Once your PR is approved, merge away.

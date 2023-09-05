@@ -8,4 +8,7 @@ dist/
 *.egg
 *.egg-info/
 .eggs/
+venv/
 MANIFEST
+
+/.quarto/
