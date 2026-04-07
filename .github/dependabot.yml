@@ -5,8 +5,7 @@ updates:
     cooldown:
       default-days: 7
     schedule:
-      interval: "weekly"
-      day: "monday"
+      interval: "yearly"
     groups:
       minor-and-patch:
         applies-to: version-updates
